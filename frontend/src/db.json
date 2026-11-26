@@ -1,0 +1,106 @@
+// {
+//   "employees": [
+//     {
+//       "id": "emp01",
+//       "password": "12345"
+//     },
+//     {
+//       "id": "emp02",
+//       "password": "abcd"
+//     }
+//   ],
+//   "managers": [
+//     {
+//       "id": "mgr01",
+//       "password": "admin"
+//     },
+//     {
+//       "id": "mgr02",
+//       "password": "pass"
+//     }
+//   ],
+//   "leaveRequests": [
+//     {
+//       "id": "emp01",
+//       "employeeId": "emp01",
+//       "type": "Sick",
+//       "reason": "Fever and cold",
+//       "status": "Rejected",
+//       "comment": ""
+//     },
+//     {
+//       "id": "emp02",
+//       "employeeId": "emp02",
+//       "type": "Casual",
+//       "reason": "Family function",
+//       "status": "Rejected",
+//       "comment": ""
+//     },
+//     {
+//       "id": "1373",
+//       "employeeId": "emp01",
+//       "type": "Emergency",
+//       "reason": "Leg fracture",
+//       "status": "Approved",
+//       "comment": ""
+//     }
+//   ],
+//   "assignedTasks": [
+//     {
+//       "id": "99a7",
+//       "employeeId": "emp01",
+//       "title": "project1",
+//       "deadline": "2025-07-09",
+//       "priority": "High",
+//       "progress": "70",
+//       "status": "In Progress",
+//       "notes": "3 days of completion"
+//     },
+//     {
+//       "id": "9f9b",
+//       "employeeId": "emp02",
+//       "title": "project1",
+//       "deadline": "2025-07-09",
+//       "priority": "High"
+//     }
+//   ],
+//   "salaryCreditions": [
+//     {
+//       "id": "574e",
+//       "employeeId": "emp01",
+//       "date": "2025-07-09",
+//       "amount": "40000",
+//       "remarks": "nil"
+//     },
+//     {
+//       "id": "574e",
+//       "employeeId": "emp01",
+//       "date": "2024-07-09",
+//       "amount": "30000",
+//       "remarks": "nil"
+//     }
+//   ],
+//   "ratings": [
+//     {
+//       "id": "2b42",
+//       "employeeId": "emp01",
+//       "taskId": "99a7",
+//       "title": "project1",
+//       "rating": 4
+//     },
+//     {
+//       "id": "5cd8",
+//       "employeeId": "emp02",
+//       "taskId": "9f9b",
+//       "title": "project1",
+//       "rating": 5
+//     },
+//     {
+//       "id": "5cd8",
+//       "employeeId": "emp03",
+//       "taskId": "9f9b",
+//       "title": "project1",
+//       "rating": 2
+//     }
+//   ]
+// }
